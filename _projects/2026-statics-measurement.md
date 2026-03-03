@@ -8,7 +8,7 @@ image2: /assets/images/IMG_8023.jpeg
 ---
 
 
-## Problem Statement (Find)
+## Find
 Find: A design for a nutcracker mechanism
 Assume (from external sources):
 - Average nut size is 15 mm
