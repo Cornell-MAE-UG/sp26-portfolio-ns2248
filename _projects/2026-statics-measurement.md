@@ -6,7 +6,6 @@ image: /assets/images/IMG_8019.jpeg
 image2: /assets/images/IMG_8023.jpeg
 ---
 
----
 
 ## Problem Statement (Find)
 Find: A design for a nutcracker mechanism
