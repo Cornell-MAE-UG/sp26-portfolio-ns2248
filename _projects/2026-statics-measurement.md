@@ -9,8 +9,9 @@ image2: /assets/images/IMG_8023.jpeg
 
 
 ## Find
-Find: A design for a nutcracker mechanism
-Assume (from external sources):
+A design for a nutcracker mechanism
+
+## Assume (from external sources):
 - Average nut size is 15 mm
 - Macadamia nut load is 222 Kg or 488.4 Lbs
 - Average grip strength is 90 Lbs
