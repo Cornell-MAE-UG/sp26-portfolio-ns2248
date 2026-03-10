@@ -18,18 +18,18 @@ A design for a nutcracker mechanism
 
 ## Given
 Given:
-- Structure of mechanism
+- Structure of the mechanism
 - Instructions for the problem
 
 ![Nutcracker Information](/sp26-portfolio-ns2248/assets/images/IMG_8019.jpeg)
 
 ## Approach
-Divide the grip strength forces among the two handles of the mechanism and divide the maximum macadamia load at the two points where nut and mechanism contact one another. Use equilibrium equations, like the moment at the point of contact between the nut and the nutcracker to solve for the length at which the grip forces should be applied to break the nut.
+Show the grip strength forces among the two handles of the nutcracker mechanism and display the maximum macadamia load at the points where nut and mechanism contact one another. Use equilibrium equations, like the moment at the point of contact between the nut and the nutcracker, to solve for the length at which the grip forces should be applied to break the nut.
 
 ![Nutcracker Diagram](/sp26-portfolio-ns2248/assets/images/IMG_8044.jpeg)
 
 ## Discussion
-This nutcracker takes the forces from a users grips and amplifies that force to break the nut. If the nut load and average grip strength are as assumed it is calculated that the nut cracekr would have to be around 32 cm long to generate a force large enough to crack the nut.
+This nutcracker takes the forces from a users grips and amplifies that force to break the nut. If the nut load and average grip strength are as assumed, it is calculated that the nut cracker would have to be around 27 cm long to generate a force large enough to crack the nut. It is important to note, as the length of the nutcracker handles increase, so does the distance between the points at which the grip strength forces are applied. Thus, a longer handle may be unusable if human hands cannot fit around it to generate a breaking force.
 
 ## Websites used:
 https://www.progressiveautomations.com/collections/linear-actuators
