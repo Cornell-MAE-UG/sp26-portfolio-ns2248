@@ -4,7 +4,7 @@ title: Statics Nutcracker Project
 description: Nutcracker Project
 technologies: Chrome, Canvas
 image: /assets/images/IMG_8019.jpeg
-image2: /assets/images/Screenshot 2026-03-10 173924.png
+image2: /assets/images/IMG_8044.jpeg
 ---
 
 
@@ -26,7 +26,7 @@ Given:
 ## Approach
 Divide the grip strength forces among the two handles of the mechanism and divide the maximum macadamia load at the two points where nut and mechanism contact one another. Use equilibrium equations, like the moment at the point of contact between the nut and the nutcracker to solve for the length at which the grip forces should be applied to break the nut.
 
-![Nutcracker Diagram](/sp26-portfolio-ns2248/assets/images/Screenshot 2026-03-10 173924.png)
+![Nutcracker Diagram](/sp26-portfolio-ns2248/assets/images/IMG_8044.jpeg)
 
 ## Discussion
 This nutcracker takes the forces from a users grips and amplifies that force to break the nut. If the nut load and average grip strength are as assumed it is calculated that the nut cracekr would have to be around 32 cm long to generate a force large enough to crack the nut.
