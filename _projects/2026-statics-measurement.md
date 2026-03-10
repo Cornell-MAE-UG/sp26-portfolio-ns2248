@@ -24,7 +24,7 @@ Given:
 ![Nutcracker Information](/sp26-portfolio-ns2248/assets/images/IMG_8019.jpeg)
 
 ## Approach
-Show the grip strength forces among the two handles of the nutcracker mechanism and display the maximum macadamia load at the points where nut and mechanism contact one another. Use equilibrium equations, like the moment at the point of contact between the nut and the nutcracker, to solve for the length at which the grip forces should be applied to break the nut.
+Show the grip strength forces among the two handles of the nutcracker mechanism and display the maximum macadamia load at the points where nut and mechanism contact one another. Use equilibrium equations, such as the moment about the point of contact between the nut and the nutcracker, to solve for the length at which the grip forces should be applied to break the nut.
 
 ![Nutcracker Diagram](/sp26-portfolio-ns2248/assets/images/IMG_8044.jpeg)
 
