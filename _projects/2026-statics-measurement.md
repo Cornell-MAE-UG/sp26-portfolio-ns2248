@@ -8,7 +8,7 @@ image2: /assets/images/IMG_8044.jpeg
 image3: /assets/images/IMG_8291.jpeg
 image4: /assets/images/IMG_8292.jpeg
 image5: /assets/images/IMG_8293.jpeg
-image6: /assets/images/IMG_8294(1).jpeg
+image6: /assets/images/IMG_8294 (1).jpeg
 ---
 
 
@@ -72,7 +72,7 @@ Draw a Free Body Diagram of one of the handles and use equilibrium to determine 
 ![Nutcracker Continued](/sp26-portfolio-ns2248/assets/images/IMG_8293.jpeg)
 
 ## Design
-![Nutcracker Design](/sp26-portfolio-ns2248/assets/images/IMG_8294(1).jpeg)
+![Nutcracker Design](/sp26-portfolio-ns2248/assets/images/IMG_8294 (1).jpeg)
 
 ## Discussion
 The hollow aluminum cylindrical handle works, because the calculated vertical deflection of 2.69 mm is less than the allowed deflection of 5.4 mm. Thus, the design would minimize the deflection to at most 2% of the 27cm handle.
