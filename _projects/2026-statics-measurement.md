@@ -63,16 +63,16 @@ Given:
 - Force from hand is 488.4 Lbs, approximately 400N
 - Force from nut is 90 Lbs, approximately 2170N
 
-![Nutcracker Givens](/sp26-portfolio-ns2248/assets/images/IMG_8291.jpeg)
+![Nutcracker Givens](/sp26-portfolio-ns2248/assets/images/IMG_8300.jpeg)
 
 ## Approach
 Draw a Free Body Diagram of one of the handles and use equilibrium to determine the reaction force at pivot A. Then use the diagram to create a moment equation, M(x), for the system. Use this equation to determine the location of maximum deflection. Next, determine the length of allowed vertical deflection and use equations to find an inequality for E and I relating to the maximum deflection. Plug in values for E and I until the inequality is true, and use the corresponding cross-section and material to check that the deflection is allowed. Finally, draw the new nutcracker.
 
-![Nutcracker Calculations](/sp26-portfolio-ns2248/assets/images/IMG_8292.jpeg)
-![Nutcracker Continued](/sp26-portfolio-ns2248/assets/images/IMG_8293.jpeg)
+![Nutcracker Calculations](/sp26-portfolio-ns2248/assets/images/IMG_8301.jpeg)
+![Nutcracker Continued](/sp26-portfolio-ns2248/assets/images/IMG_8302.jpeg)
 
 ## Design
-![Nutcracker Design](/sp26-portfolio-ns2248/assets/images/IMG_8294 (1).jpeg)
+![Nutcracker Design](/sp26-portfolio-ns2248/assets/images/IMG_8303.jpeg)
 
 ## Discussion
 The hollow aluminum cylindrical handle works, because the calculated vertical deflection of 2.69 mm is less than the allowed deflection of 5.4 mm. Thus, the design would minimize the deflection to at most 2% of the 27cm handle.
