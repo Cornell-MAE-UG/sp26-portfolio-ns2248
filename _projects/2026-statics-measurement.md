@@ -64,7 +64,7 @@ Given:
 - Force from nut is 90 Lbs, approximately 400N
 - Force from hand with linear actuator is 180 Lbs, approximately 800N
 
-![Nutcracker Givens](/sp26-portfolio-ns2248/assets/images/IMG_8304.jpeg)
+![Nutcracker Givens](/sp26-portfolio-ns2248/assets/images/IMG_8305.jpeg)
 
 ## Approach
 Draw a Free Body Diagram of one of the handles and use equilibrium to determine the reaction force at pivot A. Then use the diagram to create a moment equation, M(x), for the system. Use this equation to determine the location of maximum deflection. Next, determine the length of allowed vertical deflection and use equations to find an inequality for E and I relating to the maximum deflection. Plug in values for E and I until the inequality is true, and use the corresponding cross-section and material to check that the deflection is allowed. Finally, draw the new nutcracker.
