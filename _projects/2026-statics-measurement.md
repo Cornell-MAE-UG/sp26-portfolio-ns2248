@@ -51,17 +51,18 @@ https://www.racmn.com/blog/get-a-grip-your-health-is-in-your-hands-really
 ---
 
 ## Find
-a) Find the location of maximum elastic deflection in the nutcracker handles
-b) Find a beam design such that the vertical deflection is less than 2% of the handle length
-c) Draw the new nutcracker design
+1. Find the location of maximum elastic deflection in the nutcracker handles
+2. Find a beam design such that the vertical deflection is less than 2% of the handle length
+3. Draw the new nutcracker design
 
 
 ## Given
 Given:
 - Quantities from part 1
 - A is a pivot
-- Force from hand is 488.4 Lbs, approximately 400N
-- Force from nut is 90 Lbs, approximately 2170N
+- Force from hand is 488.4 Lbs, approximately 2170N
+- Force from nut is 90 Lbs, approximately 400N
+- Force from hand with linear actuator is 180 Lbs, approximately 800N
 
 ![Nutcracker Givens](/sp26-portfolio-ns2248/assets/images/IMG_8300.jpeg)
 
@@ -75,4 +76,4 @@ Draw a Free Body Diagram of one of the handles and use equilibrium to determine 
 ![Nutcracker Design](/sp26-portfolio-ns2248/assets/images/IMG_8303.jpeg)
 
 ## Discussion
-The hollow aluminum cylindrical handle works, because the calculated vertical deflection of 2.69 mm is less than the allowed deflection of 5.4 mm. Thus, the design would minimize the deflection to at most 2% of the 27cm handle.
+The hollow aluminum cylindrical handle works because the calculated vertical deflection of 4 mm is less than the allowed deflection of 5.4 mm. Thus, the design would minimize the deflection to at most 2% of the 27cm handle.
